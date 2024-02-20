@@ -11,7 +11,11 @@ The SAR dataset that the GMM algorithm is trained on is included.
 
 For more detailed explanations on each of these steps, as well as the code, refer to the contents of `Unsupervised_Learning_Methods_Assignment4.ipynb`.
 ## Getting Started
-The notebook runs linearly, with steps depending on their predecessors. No modifications should be required from the user's end once this project is downloaded, as all materials are included. Step by step explanations can be found within the notebook.
+The notebook runs linearly, with steps depending on their predecessors. One modification will be required from the user's end once this project is downloaded; they must specify the file path to where they have downloaded this project. 
+
+**For this notebook to work properly, do not modify the structure of this project!**
+
+Step by step explanations behind each step can be found within the notebook.
 ## Usage
 For clarity, the images required for the assignment are shown here. They can be retrieved by running through the notebook.
 ### Images from GMM Classification
